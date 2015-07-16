@@ -1,0 +1,5 @@
+wp: trungdovan
+
+mysql host: localhost:3306
+database: bongda69
+user: root
